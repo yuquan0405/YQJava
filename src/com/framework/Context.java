@@ -7,7 +7,11 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.web.context.support.WebApplicationContextUtils;
  
-
+/**
+ * 
+ * @author ThinkPad
+ *
+ */
 public class Context {
 	
 	/**
