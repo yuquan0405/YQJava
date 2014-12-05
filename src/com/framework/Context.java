@@ -11,7 +11,7 @@ import org.springframework.web.context.support.WebApplicationContextUtils;
 public class Context {
 	
 	/**
-     * Spring上下文对象
+     * Spring上下文对象 
     */
     private static ApplicationContext context = null;
     
